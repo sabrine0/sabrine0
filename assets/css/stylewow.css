@@ -1,0 +1,298 @@
+/**
+* Template Name: iPortfolio
+* Updated: Mar 10 2023 with Bootstrap v5.2.3
+* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
+
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+
+/* 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Raleway", sans-serif;
+} */
+
+/*--------------------------------------------------------------
+# Back to top button
+--------------------------------------------------------------*/
+
+
+/*--------------------------------------------------------------
+# Navigation Menu
+--------------------------------------------------------------*/
+
+
+/*--------------------------------------------------------------
+# Hero Section
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Sections General
+--------------------------------------------------------------*/
+/* section {
+  padding: 60px 0;
+  overflow: hidden;
+}
+
+.section-bg {
+  background: #f5f8fd;
+}
+
+.section-title {
+  padding-bottom: 30px;
+}
+
+.section-title h2 {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  color: #173b6c;
+}
+
+.section-title h2::after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 50px;
+  height: 3px;
+  background: #149ddd;
+  bottom: 0;
+  left: 0;
+}
+
+.section-title p {
+  margin-bottom: 0;
+} */
+
+/*--------------------------------------------------------------
+# About
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Facts
+--------------------------------------------------------------*/
+
+
+@font-face {
+  font-family: 'ElMessiri-Regular';
+  src: url('ElMessiri/ElMessiri-Regular.ttf') format('truetype');
+}
+
+body {
+  font-family: 'ElMessiri-Regular';
+
+}
+
+.facts {
+  padding-bottom: 30px;
+}
+
+.facts .count-box {
+  padding: 30px;
+  width: 100%;
+}
+
+.facts .count-box i {
+  font-size: 44px;
+  color: #cf9aad;
+  float: right;
+    
+  line-height: 0;
+  padding-left: inherit;
+}
+
+.facts .count-box span {
+    font-size: 48px;
+    line-height: 40px;
+    margin-top: 16px;
+    display: table-row-group;
+    font-weight: 700;
+    direction: rtl;
+    color: #194963;
+}
+
+.facts .count-box p {
+   
+    padding: 0px 74px 0 0;
+    direction: rtl;
+    margin: 0 0 0 0px;
+    font-family: 'ElMessiri-Regular';
+    font-size: 14px;
+    color: #194963;
+}
+
+.facts .count-box a {
+  font-weight: 600;
+  display: block;
+  margin-top: 20px;
+     
+  color: #122f57;
+  font-size: 15px;
+  font-family: 'ElMessiri-Regular';
+  transition: ease-in-out 0.3s;
+}
+
+.facts .count-box a:hover {
+  color: #1f5297;
+}
+
+/*--------------------------------------------------------------
+# Akills
+--------------------------------------------------------------*/
+.skills .progress {
+  height: 60px;
+  display: block;
+  background: none;
+  border-radius: 0;
+}
+
+.skills .progress .skill {
+
+
+
+  padding: 0;
+  margin: 0 0 6px 0;
+
+  display: block;
+  font-weight: 600;
+  font-size: 18px;
+  font-family: 'ElMessiri-Regular';
+  color: rgba(25, 73, 99, 30);
+}
+
+.skills .progress .skill .val {
+  float: right;
+  font-style: normal;
+  font-family: 'ElMessiri-Regular';
+}
+
+.skills .progress-bar-wrap {
+  background: #dce8f8;
+  height: 11px;
+}
+
+.skills .progress-bar {
+  background: rgba(200, 132, 155, 50);
+  background: linear-gradient(10deg, rgb(41, 118, 160)0%, rgba(200, 132, 155, 50)100%);
+  height: 11px;
+  border-radius: 3px;
+  width: 2px;
+  transition: 1.9s;
+
+}
+
+
+/*--------------------------------------------------------------
+# Testimonials
+--------------------------------------------------------------*/
+.testimonials .testimonials-carousel,
+.testimonials .testimonials-slider {
+  overflow: hidden;
+}
+
+.testimonials .testimonial-item {
+  box-sizing: content-box;
+  text-align: center;
+  min-height: 320px;
+}
+
+.testimonials .testimonial-item .testimonial-img {
+  background-image: url(../images/rrr.png);
+  width:67px;
+  border-radius: 27%;
+  margin: 0 auto;
+}
+
+.testimonials .testimonial-item h3 {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 10px 0 5px 0;
+  color: #111;
+}
+
+.testimonials .testimonial-item h4 {
+  font-size: 14px;
+  color: #999;
+  margin: 0;
+}
+
+.testimonials .testimonial-item .quote-icon-left,
+.testimonials .testimonial-item .quote-icon-right {
+  color: #c3e8fa;
+  font-size: 26px;
+}
+
+.testimonials .testimonial-item .quote-icon-left {
+  display: inline-block;
+  left: -5px;
+  position: relative;
+}
+
+.testimonials .testimonial-item .quote-icon-right {
+  display: inline-block;
+  right: -5px;
+  position: relative;
+  top: 10px;
+}
+
+.testimonials .testimonial-item p {
+  font-style: italic;
+  margin: 0 15px 15px 15px;
+  padding: 20px;
+  background: #fff;
+  position: relative;
+  margin-bottom: 35px;
+  border-radius: 45px;
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+}
+
+.testimonials .testimonial-item p::after {
+  content: "";
+  width: 0;
+  height: 0;
+  border-top: 20px solid #fff;
+  border-right: 20px solid transparent;
+  border-left: 20px solid transparent;
+  position: absolute;
+  bottom: -10px;
+  left: calc(50% - 20px);
+}
+/* 
+.testimonials .testimonial-item p1::after {
+  content: "";
+  width: 0;
+  height: 0;
+  border-top: 20px solid #fff;
+  border-right: 20px solid transparent;
+  border-left: 20px solid transparent;
+  position: absolute;
+  bottom: 0px;
+  left: calc(50% - 20px);
+} */
+
+.testimonials .swiper-pagination {
+  margin-top: 20px;
+  position: relative;
+}
+
+.testimonials .swiper-pagination .swiper-pagination-bullet {
+  width: 12px;
+  height: 12px;
+  background-color: #fff;
+  opacity: 1;
+  border: 1px solid #149ddd;
+}
+
+.testimonials .swiper-pagination .swiper-pagination-bullet-active {
+  background-color: #149ddd;
+}
