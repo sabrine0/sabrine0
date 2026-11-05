@@ -208,6 +208,12 @@ Take a break and play my **Neon Snake** game right in your browser — works on 
 <a href="https://discord.com/users/Zarafa0">
   <img src="https://img.shields.io/badge/Discord-Zarafa0-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
 </a>
+<a href="https://instagram.com/2d._ms" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Instagram-2d._ms-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+</a>
+<a href="https://t.me/Zarafa2002" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Telegram-Zarafa2002-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+</a>
 
 </div>
 
