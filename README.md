@@ -148,7 +148,11 @@ Take a break and play my **Neon Snake** game right in your browser — works on 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrine0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrine0&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+
+<br/>
+
+<!-- Accurate languages card measured across ALL repos (incl. private) -->
+<img src="assets/languages.png" width="480" alt="Most used languages across all repos including private" />
 
 <br/>
 
