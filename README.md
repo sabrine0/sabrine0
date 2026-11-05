@@ -130,6 +130,21 @@ Connected traffic-management system with **adaptive signal timing**, a traffic s
 > Tasira marketplace, and traffic-controller reverse-engineering tooling (Ghidra, dnSpy).
 
 <!-- ===================== GITHUB STATS ===================== -->
+<!-- ===================== PLAYABLE GAME ===================== -->
+## 🎮 Play a Game on My Profile!
+
+<div align="center">
+
+Take a break and play my **Neon Snake** game right in your browser — works on desktop & mobile! 🐍
+
+<a href="https://sabrine0.github.io/sabrine0/game/" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20NEON%20SNAKE-ff2e63?style=for-the-badge&logo=gamejolt&logoColor=white" alt="Play Neon Snake" height="46" />
+</a>
+
+<sub>🕹️ Arrow keys / WASD on desktop · swipe on mobile · beat your high score!</sub>
+
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
