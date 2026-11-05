@@ -3,7 +3,7 @@
 <!-- ===================== ANIMATED HEADER BANNER ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0a3d,100:ff6a00&height=220&section=header&text=%F0%9F%8E%83%20Sabrine%20Essaket%20%F0%9F%91%BB&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20AI%20%26%20Computer%20Vision&descAlignY=58&descSize=18" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sabrine%20Essaket&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20AI%20%26%20Computer%20Vision&descAlignY=58&descSize=18" alt="header"/>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <a href="https://git.io/typing-svg">
@@ -27,17 +27,6 @@
 </div>
 
 <!-- ===================== ABOUT ME ===================== -->
-<!-- ===================== SPOOKY DIVIDER ===================== -->
-<div align="center">
-
-### 🎃 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ʜᴀᴜɴᴛᴇᴅ ᴘʀᴏғɪʟᴇ 👻
-
-🦇 &nbsp; 🕸️ &nbsp; 🎃 &nbsp; 💀 &nbsp; 🕷️ &nbsp; 👻 &nbsp; 🧙‍♀️ &nbsp; 🕸️ &nbsp; 🦇
-
-<img src="https://readme-typing-svg.demolab.com?font=Creepster&size=28&duration=2500&pause=600&color=FF6A00&center=true&vCenter=true&width=600&lines=Trick+or+code%3F;Debugging+in+the+dark...;AI+that+sees+in+the+shadows+%F0%9F%91%BB" alt="spooky typing" />
-
-</div>
-
 ## 👋 About Me
 
 ```python
@@ -174,7 +163,7 @@ Take a break and play my **Neon Snake** game right in your browser — works on 
 </div>
 
 <!-- ===================== SNAKE ANIMATION ===================== -->
-## 🐍 Watch the ghost-snake devour my contributions! 🎃
+## 🐍 Watch my contributions get eaten!
 
 <div align="center">
 
@@ -215,8 +204,8 @@ Take a break and play my **Neon Snake** game right in your browser — works on 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,100:2b0a3d&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
 
-<i>🎃 "Building AI that sees in the dark — and systems that never sleep." 👻 — Sabrine Essaket</i>
+<i>⭐️ "Building AI that sees — and systems that think." — Sabrine Essaket</i>
 
 </div>
