@@ -17,6 +17,13 @@
   <img src="https://img.shields.io/badge/Based%20in-Morocco%20%F0%9F%87%B2%F0%9F%87%A6-brightgreen?style=flat" alt="morocco" />
 </p>
 
+<!-- 🎮 Prominent PLAY button at the top so every visitor sees it -->
+<a href="https://sabrine0.github.io/sabrine0/game/" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20PLAY%20MY%20GAME%20%E2%96%B6-ff2e63?style=for-the-badge&logoColor=white" alt="Play my game" height="44" />
+</a>
+
+<sub>👆 Click to play my <b>Neon Snake</b> game in your browser!</sub>
+
 </div>
 
 <!-- ===================== ABOUT ME ===================== -->
