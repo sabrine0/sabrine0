@@ -3,11 +3,11 @@
 <!-- ===================== ANIMATED HEADER BANNER ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sabrine%20Essaket&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20AI%20%26%20Computer%20Vision&descAlignY=58&descSize=18" alt="header"/>
+<img width="100%" src="assets/banner.png" alt="Sabrine Essaket - AI & Computer Vision"/>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22A6F7&center=true&vCenter=true&width=700&lines=Computer+Engineer+%7C+AI+%26+Computer+Vision;Real-time+Object+Detection+%26+Tracking+(YOLO);Full-Stack+Developer+%7C+Python+%7C+TypeScript;Master's+Scholarship+Candidate+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A3E635&center=true&vCenter=true&width=700&lines=Computer+Engineer+%7C+AI+%26+Computer+Vision;Real-time+Object+Detection+%26+Tracking+(YOLO);Full-Stack+Developer+%7C+Python+%7C+TypeScript;Master's+Scholarship+Candidate+2026" alt="Typing SVG" />
 </a>
 
 <!-- ===================== BADGES ===================== -->
@@ -208,7 +208,7 @@ Take a break and play my **Neon Snake** game right in your browser — works on 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e0a,100:84cc16&height=120&section=footer" alt="footer"/>
 
 <i>⭐️ "Building AI that sees — and systems that think." — Sabrine Essaket</i>
 
