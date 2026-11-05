@@ -198,6 +198,9 @@ Take a break and play my **Neon Snake** game right in your browser — works on 
 <a href="https://github.com/sabrine0">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 </a>
+<a href="https://discord.com/users/Zarafa0">
+  <img src="https://img.shields.io/badge/Discord-Zarafa0-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
+</a>
 
 </div>
 
