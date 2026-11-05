@@ -1,21 +1,20 @@
-<!-- Profile README for @sabrine0 -->
+<!-- Profile README for @sabrine0  -->
 
 <!-- ===================== ANIMATED HEADER BANNER ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sabrine%20Essaket&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Computer%20Vision&descAlignY=58&descSize=20" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sabrine%20Essaket&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20AI%20%26%20Computer%20Vision&descAlignY=58&descSize=18" alt="header"/>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22A6F7&center=true&vCenter=true&width=650&lines=AI+%26+Computer+Vision+Enthusiast;Master's+Scholarship+Candidate+2026;Python+%7C+Linux+%7C+Deep+Learning;I+build%2C+break+and+understand+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22A6F7&center=true&vCenter=true&width=700&lines=Computer+Engineer+%7C+AI+%26+Computer+Vision;Real-time+Object+Detection+%26+Tracking+(YOLO);Full-Stack+Developer+%7C+Python+%7C+TypeScript;Master's+Scholarship+Candidate+2026" alt="Typing SVG" />
 </a>
 
-<!-- ===================== PROFILE VIEWS + FOLLOW ===================== -->
+<!-- ===================== BADGES ===================== -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=sabrine0&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/sabrine0?tab=followers">
-    <img src="https://img.shields.io/github/followers/sabrine0?label=Followers&style=social" alt="followers" />
-  </a>
+  <a href="https://github.com/sabrine0?tab=followers"><img src="https://img.shields.io/github/followers/sabrine0?label=Followers&style=social" alt="followers" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Morocco%20%F0%9F%87%B2%F0%9F%87%A6-brightgreen?style=flat" alt="morocco" />
 </p>
 
 </div>
@@ -27,45 +26,97 @@
 class Sabrine:
     def __init__(self):
         self.name      = "Sabrine Essaket"
-        self.role      = "Aspiring AI / Computer Vision researcher"
+        self.role      = "Computer Engineer — AI & Computer Vision"
+        self.company   = "Junior Technical Project Manager @ Tomorrow Systems"
         self.based_in  = "Morocco"
+        self.education = "Computer Engineering, SupMTI Rabat (Mention Bien, 15.87/20)"
+        self.focus     = ["computer vision", "real-time object detection & tracking",
+                          "AI for intelligent transportation", "assistive technologies"]
         self.goal      = "Master's scholarship in AI & Computer Vision (2026)"
-        self.focus     = ["deep learning", "image processing", "computer vision"]
-        self.toolbox   = ["Python", "Linux", "Git"]
-        self.exploring = ["PyTorch", "OpenCV", "neural networks"]
 
     def say_hi(self):
-        print("Thanks for visiting — let's build something intelligent!")
+        print("Thanks for visiting — let's build something intelligent! 🚀")
 ```
 
-- 🔭 I'm focused on **computer vision & deep learning**
-- 🌱 Currently exploring **PyTorch, OpenCV and neural networks**
-- 🎯 **2026 goal:** earning a **Master's scholarship in AI & Computer Vision**
-- 💻 Comfortable in **Python** on **Linux**, and I enjoy understanding how systems work under the hood
+- 🔭 I build **real-time computer-vision & traffic-management systems** — from YOLO pipelines to full-stack dashboards.
+- 👩‍💻 **Junior Technical Project Manager — AI & Software Systems** @ **Tomorrow Systems**, Casablanca.
+- 🎓 **Computer Engineer** (Information Systems Engineering), **SupMTI Rabat** — graduated with **Mention Bien (15.87/20)**.
+- 🌱 Deepening my research in **object detection & multi-object tracking**, **assistive vision**, and **AI for smart cities**.
+- 🎯 **2026 goal:** earning a **Master's scholarship in AI & Computer Vision**.
+- 🗣️ Languages: **Arabic** (native) · **French** · **English**
 - 📫 Reach me: **sabrineessaket@gmail.com**
+
+<!-- ===================== RESEARCH INTERESTS ===================== -->
+## 🧠 Research Interests
+
+`Computer Vision` · `Real-time Object Detection & Multi-Object Tracking` · `AI for Intelligent Transportation & Traffic Monitoring` · `Assistive Technologies for the Visually Impaired` · `Security of AI-enabled & Embedded Systems`
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Core**
+**AI / Computer Vision**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Exploring in AI / Computer Vision**
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv5%2FYOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Web & Backend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Data & DevOps**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Embedded & Security**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32--CAM-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-FF6600?style=for-the-badge&logo=ghidra&logoColor=white)
 
 </div>
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+## 🚀 Featured Projects
+
+### 👁️ SEE — Assistive Vision for the Visually Impaired · *2023–2024*
+Real-time assistive system that **detects surrounding objects and announces them by voice**.
+Built with **YOLOv5s** (PyTorch, OpenCV), confidence filtering and repeated-announcement control, plus
+**text-to-speech** feedback. Explored monocular distance estimation and an **ESP32-CAM + Bluetooth** wearable.
+`Python` `PyTorch` `OpenCV` `YOLOv5` `TTS` `ESP32-CAM`
+
+### 🚦 Traffic Tracker — Computer-Vision Traffic Analytics · *2026*
+**FastAPI** pipeline combining **YOLOv8** detection and **ByteTrack** multi-object tracking for vehicle analytics,
+generating **traffic heatmaps** and automated **Excel reports** from video footage.
+`FastAPI` `YOLOv8` `ByteTrack` `OpenCV`
+
+### 🏙️ AI Large-Event Visual Intelligence System · *2026*
+Detection & counting of **people, vehicles and animals** with **multi-camera, zone-based monitoring**,
+incident alerting and decision-support dashboards for large public events.
+`Computer Vision` `Multi-camera` `Dashboards`
+
+### 🚥 Smart Traffic Light System — Adaptive Signal Control · *2026*
+Connected traffic-management system with **adaptive signal timing**, a traffic simulation and an
+**Arduino Mega** hardware prototype, plus operator & police dashboards.
+`NestJS` `Next.js` `PostgreSQL` `Docker` `Arduino Mega`
+
+> 💡 More: GMAO/CMMS SaaS platform (.NET), HomeMall housing decision-support (Next.js/Flutter),
+> Tasira marketplace, and traffic-controller reverse-engineering tooling (Ghidra, dnSpy).
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
@@ -89,11 +140,27 @@ class Sabrine:
 
 </div>
 
-<!-- ===================== PINNED / PROJECTS ===================== -->
-## 📌 Projects
+<!-- ===================== SNAKE ANIMATION ===================== -->
+## 🐍 Watch my contributions get eaten!
 
-My featured work is pinned below on my profile — take a look! I'm continuously adding
-new **AI and computer-vision** experiments as I learn.
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabrine0/sabrine0/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sabrine0/sabrine0/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/sabrine0/sabrine0/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<!-- ===================== FUN: DEV QUOTE ===================== -->
+## ✨ Dev Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+
+</div>
 
 <!-- ===================== CONNECT ===================== -->
 ## 🤝 Connect With Me
@@ -102,6 +169,9 @@ new **AI and computer-vision** experiments as I learn.
 
 <a href="mailto:sabrineessaket@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+</a>
+<a href="https://linkedin.com/in/sabrine-essaket">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 <a href="https://github.com/sabrine0">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
@@ -114,6 +184,6 @@ new **AI and computer-vision** experiments as I learn.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
 
-⭐️ From [Sabrine Essaket](https://github.com/sabrine0)
+<i>⭐️ "Building AI that sees — and systems that think." — Sabrine Essaket</i>
 
 </div>
