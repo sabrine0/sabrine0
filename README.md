@@ -15,6 +15,8 @@
   <img src="https://komarev.com/ghpvc/?username=sabrine0&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://github.com/sabrine0?tab=followers"><img src="https://img.shields.io/github/followers/sabrine0?label=Followers&style=social" alt="followers" /></a>
   <img src="https://img.shields.io/badge/Based%20in-Morocco%20%F0%9F%87%B2%F0%9F%87%A6-brightgreen?style=flat" alt="morocco" />
+  <img src="https://img.shields.io/badge/Repositories-65%2B-a3e635?style=flat&logo=github&logoColor=white" alt="repositories" />
+  <img src="https://img.shields.io/badge/Projects%20Built-20%2B-84cc16?style=flat&logo=rocket&logoColor=white" alt="projects built" />
 </p>
 
 <!-- 🎮 Prominent PLAY button at the top so every visitor sees it -->
