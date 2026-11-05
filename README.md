@@ -52,6 +52,7 @@ class Sabrine:
 - 🎯 **2026 goal:** earning a **Master's scholarship in AI & Computer Vision**.
 - 🗣️ Languages: **Arabic** (native) · **French** · **English**
 - 📫 Reach me: **sabrineessaket@gmail.com**
+- 🎓 **Open to Master's & research opportunities** in AI & Computer Vision
 
 <!-- ===================== RESEARCH INTERESTS ===================== -->
 ## 🧠 Research Interests
